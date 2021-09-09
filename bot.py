@@ -32,9 +32,9 @@ HELP_TEXT = """
 """
 ABOUT_TEXT = """
 - **Bot :** `Info Bot`
-- **Creator :** [Vivek](https://telegram.me/Vivek_KERALA)
+- **Creator :** [Theekshana](https://telegram.me/ImTheekshana)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/vivek-tp/Info-Bot)
+- **Source :** [Click here](https://github.com/)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
@@ -42,14 +42,14 @@ ABOUT_TEXT = """
 
 BOT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text="SOURCE", url=f"https://github.com/vivek-tp/Info-Bot")
+        InlineKeyboardButton(text="📜Source Code", url=f"https://github.com/ImTheekshana126/TG-Info-Bot")
         ]]
     )
 
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text="SOURCE", url=f"https://github.com/vivek-tp/Info-Bot")
+        InlineKeyboardButton(text="Channel", url=f"t.me/theekshana_Official")
         ]]
     )
                 
@@ -91,15 +91,15 @@ async def info(bot, update):
     else:
         last_name = "None"
     text = f"""
-**🙋🏻‍♂️ First Name :** {update.from_user.first_name}
+**First Name :** {update.from_user.first_name}
 
-**🧖‍♂️ Your Second Name :** {last_name}
+** Your Second Name :** {last_name}
 
-**🧑🏻‍🎓 Your Username :** {update.from_user.username}
+** Your Username :** {update.from_user.username}
 
-**🆔 Your Telegram ID :** {update.from_user.id}
+** Your Telegram ID :** {update.from_user.id}
 
-**🔗 Your Profile Link :** {update.from_user.mention}
+** Your Profile Link :** {update.from_user.mention}
 """ 
     reply_markup = START_BUTTONS
     await update.reply_text(        
@@ -122,7 +122,7 @@ async def id(bot, update):
 
 print(
     """
-Bot Started!!! Now Join on @Vkprojects
+Bot Started!!! Now Join on @Theekshana_Support
 """
 )
 
