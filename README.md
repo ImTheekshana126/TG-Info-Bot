@@ -18,9 +18,6 @@ Then goto the <a href="#vars">variables tab</a> for more info on setting up envi
 
 ### Getting Started On VPS
 
-**1.** Clone the Repo
-```
-git clone https://github.com/vivek-tp/Info-Bot
 ```
 **2.** Replace Values with your Details
 ```
