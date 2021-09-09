@@ -1,8 +1,8 @@
 {
     "name": "Info Bot",
+    "Logo": "https://telegra.ph/file/3ea6ea8eb039873be5b78.jpg",
     "description": "A simple Info telegram bot",
     "repository": "https://github.com/imTheekshana126/TG-Info-Bot ",
-    "Logo": "https://telegra.ph/file/3ea6ea8eb039873be5b78.jpg",
     "keywords": [
         "telegram",
         "pyrogram",
