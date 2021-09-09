@@ -42,6 +42,6 @@ BOT_TOKEN - From @BotFather
 
 Distributed under MIT License. See `LICENSE` for more information.
 
-### About US
+### DEVEPOPER
 
-This is developed by [Vivek](https://gitHub.com/Vivek-TP) And [Fayas](https://github.com/FayasNoushad) As Helper.
+This is developed by [THEEKSHANA](t.me/imtheekshana).
