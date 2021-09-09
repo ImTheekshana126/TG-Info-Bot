@@ -1,6 +1,7 @@
 {
     "name": "Info Bot",
     "description": "A simple Info telegram bot",
+    "logo": ""
     "repository": "https://github.com/ImTheekshana126/TG-Info-Bot",
     "keywords": [
         "telegram",
