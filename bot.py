@@ -15,8 +15,7 @@ Bot = Client(
 START_TEXT = """
 <b>Hello {}
 
-I am a [Simple Telegram Info Gathering Bot](https://telegra.ph/file/386f2c8e0d8a45cdb4667.jpg),
-Click /help to know my Commands and my uses<b>
+[bot](https://telegra.ph/file/536e97961e9870e718912.jpg)
 """
 HELP_TEXT = """
 🤔 How to use me?
