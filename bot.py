@@ -16,7 +16,7 @@ START_TEXT = """
 <b>Hello {}
 
 I am a [Simple Telegram Info Gathering Bot](https://telegra.ph/file/386f2c8e0d8a45cdb4667.jpg),
-Click /help to know my Commands and my uses<b>
+Click /help to know my Commands and my uses<b>[🌸](https://telegra.ph/file/8cabfc3e05d3302d73dde.jpg)
 """
 HELP_TEXT = """
 🤔 How to use me?
